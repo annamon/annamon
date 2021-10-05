@@ -5,8 +5,8 @@
 📌 2019.02 - 2019.08 / Alchera Inc. Data team / Contract \
 📌 2020.04 - 2020.06 / Bundang-dong Office / Intern \
 📌 2020.10 - 2020.11 / Seongnam City Hall / Intern \
-📘 2021.1 - now \
-I'm learning Java at SSAFY - SAMSUNG SW Academy For Youth
+📘 2021.01 - 2021.09 / SSAFY - SAMSUNG SW Academy For Youth \
+
 
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
