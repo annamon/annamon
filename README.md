@@ -6,6 +6,7 @@
 📌 2020.04 - 2020.06 / Bundang-dong Office / Intern \
 📌 2020.10 - 2020.11 / Seongnam City Hall / Intern \
 📘 2021.01 - 2021.09 / SSAFY - SAMSUNG SW Academy For Youth \
+📕 2021.10 - now
 
 
 
